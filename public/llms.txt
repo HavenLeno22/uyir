@@ -1,0 +1,21 @@
+# Uyir
+
+> Uyir (உயிர், "life") is a free, offline web app for India: first aid in the minutes after an animal bite or snakebite, and a personal plan that sees a person through every rabies vaccine dose. English, Tamil and Hindi. It follows India's National Guidelines for Rabies Prophylaxis (2019) and cites the page for every medical statement. It is not a doctor and never tells anyone to skip, stop or restart a dose.
+
+## What it does
+
+- Asks "what bit you?" first, because dog-bite and snakebite first aid conflict: wash a dog bite with soap and running water for 15 minutes; do not wash a snakebite.
+- A voice-guided 15-minute wound-wash timer.
+- Snakebite first aid from the Ministry of Health's 2017 standard treatment guidelines.
+- A short check that maps what happened to the national exposure categories (I, II, III) and says what the clinic will usually do.
+- Dose plans for the national schedules (intradermal days 0, 3, 7, 28; intramuscular days 0, 3, 7, 14, 28; re-exposure; pre-exposure) with the guideline's rules for late doses and the immunoglobulin window.
+- A 10-day watch on a biting dog or cat, reminders through the calendar, WhatsApp or SMS, and a record for the clinic as text and QR code.
+- The 284 official Model Anti-Rabies Clinics (NRCP list, March 2026), searchable offline, and helplines 108, 112 and 15400.
+
+## Sources
+
+- [National Guidelines for Rabies Prophylaxis, 2019](https://rabiesfreeindia.mohfw.gov.in/resources/uploads/PageContentPdf/171214085536.pdf)
+- [NRCP wound management guidelines](https://rabiesfreeindia.mohfw.gov.in/resources/uploads/PageContentPdf/169391055721.pdf)
+- [NRCP FAQ and rabies helpline](https://rabiesfreeindia.mohfw.gov.in/faq)
+- [List of Anti Rabies Clinic under NRCP, March 2026](https://rabiesfreeindia.mohfw.gov.in/resources/uploads/PageContentPdf/177452428483.pdf)
+- [MoHFW Standard Treatment Guidelines: Management of Snake Bite, 2017](https://ncdc.mohfw.gov.in/uploads/pdf/Standard-Treatment-Guidelines-for-Management-of-Snake-Bite.pdf)

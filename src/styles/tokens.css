@@ -1,0 +1,129 @@
+/* Uyir design tokens. Water blue is the wash and every primary action; stamp-pad violet marks
+   doses given, the way clinics stamp paper cards; red and amber are kept for urgency and always
+   come with an icon and words. Dark mode is its own set of steps, not an inversion. */
+
+:root {
+  --paper: #f7f8f6;
+  --surface: #ffffff;
+  --surface-2: #eef1ef;
+  --ink: #14212b;
+  --ink-2: #45535d;
+  --ink-3: #5f6c75;
+  --line: #d7ddda;
+  --line-strong: #b4bfbb;
+
+  --water: #0b6fa4;
+  --water-ink: #ffffff;
+  --water-soft: #dcedf6;
+  --water-deep: #07507a;
+
+  --stamp: #4b3f9e;
+  --stamp-soft: #ece9fa;
+
+  --urgent: #c3362b;
+  --urgent-soft: #fbe8e6;
+  --urgent-ink: #8e2019;
+
+  --due: #a85f00;
+  --due-soft: #fff0d9;
+  --due-ink: #6f3f00;
+
+  --night: #14212b;
+  --night-ink: #f3f6f7;
+  --night-accent: #ffb0a6;
+
+  --focus: #0b6fa4;
+  --shadow: 0 1px 2px rgb(20 33 43 / 8%), 0 4px 14px rgb(20 33 43 / 6%);
+
+  --font: 'Mukta', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --text-sm: 0.875rem;
+  --text: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.6rem;
+  --text-2xl: 2.05rem;
+  --text-3xl: 2.6rem;
+  --leading: 1.55;
+
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+
+  --r-button: 12px;
+  --r-card: 6px;
+  --r-tile: 18px;
+
+  --tap: 52px;
+  --column: 680px;
+  --tabbar: 64px;
+
+  color-scheme: light;
+}
+
+:root:lang(ta) {
+  --font: 'Mukta Malar', 'Mukta', system-ui, sans-serif;
+  --leading: 1.65;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #0d151b;
+    --surface: #15212a;
+    --surface-2: #1b2a34;
+    --ink: #e9eff2;
+    --ink-2: #b8c4cb;
+    --ink-3: #95a2aa;
+    --line: #2a3944;
+    --line-strong: #3d505c;
+    --water: #56b6ea;
+    --water-ink: #04131c;
+    --water-soft: #12344a;
+    --water-deep: #9bd5f4;
+    --stamp: #aca1ff;
+    --stamp-soft: #262245;
+    --urgent: #ff8a7b;
+    --urgent-soft: #3a1d1b;
+    --urgent-ink: #ffb8ae;
+    --due: #f0b357;
+    --due-soft: #36290f;
+    --due-ink: #f7cd88;
+    --night: #070c10;
+    --night-ink: #f3f6f7;
+    --night-accent: #ffb0a6;
+    --focus: #56b6ea;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --paper: #0d151b;
+  --surface: #15212a;
+  --surface-2: #1b2a34;
+  --ink: #e9eff2;
+  --ink-2: #b8c4cb;
+  --ink-3: #95a2aa;
+  --line: #2a3944;
+  --line-strong: #3d505c;
+  --water: #56b6ea;
+  --water-ink: #04131c;
+  --water-soft: #12344a;
+  --water-deep: #9bd5f4;
+  --stamp: #aca1ff;
+  --stamp-soft: #262245;
+  --urgent: #ff8a7b;
+  --urgent-soft: #3a1d1b;
+  --urgent-ink: #ffb8ae;
+  --due: #f0b357;
+  --due-soft: #36290f;
+  --due-ink: #f7cd88;
+  --night: #070c10;
+  --night-ink: #f3f6f7;
+  --night-accent: #ffb0a6;
+  --focus: #56b6ea;
+  --shadow: 0 1px 2px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}

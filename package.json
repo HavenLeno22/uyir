@@ -1,0 +1,38 @@
+{
+  "name": "uyir",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Uyir: what to do after a dog or snake bite, and a companion that sees you through every rabies vaccine dose. Offline, in English, Tamil and Hindi.",
+  "license": "MIT",
+  "author": "Haven Leno J",
+  "homepage": "https://havenleno22.github.io/uyir/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HavenLeno22/uyir.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc -b --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "0.460.0",
+    "qrcode-generator": "1.4.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.1",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "jsqr": "1.4.0",
+    "pdfjs-dist": "4.7.76",
+    "typescript": "5.6.3",
+    "vite": "5.4.11",
+    "vitest": "2.1.8"
+  }
+}

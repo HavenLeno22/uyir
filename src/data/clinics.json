@@ -1,0 +1,3384 @@
+{
+ "source": {
+  "title": "List of Anti Rabies Clinic under NRCP",
+  "publisher": "National Rabies Control Programme, NCDC, Ministry of Health and Family Welfare",
+  "updated": "2026-03-26",
+  "url": "https://rabiesfreeindia.mohfw.gov.in/resources/uploads/PageContentPdf/177452428483.pdf"
+ },
+ "clinics": [
+  {
+   "id": "nrcp-1",
+   "state": "Andhra Pradesh",
+   "district": "Srikakulam",
+   "facility": "Government General Hospital, Balaga, Srikakulam - 532001",
+   "pin": "532001",
+   "phones": [
+    "9701501070"
+   ],
+   "lat": 18.301,
+   "lon": 83.896,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-2",
+   "state": "Andhra Pradesh",
+   "district": "Vizianagaram",
+   "facility": "Government General Hospital, Vizianagaram - 535001",
+   "pin": "535001",
+   "phones": [
+    "9849544287"
+   ],
+   "lat": 18.113,
+   "lon": 83.403,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-3",
+   "state": "Andhra Pradesh",
+   "district": "Visakhapatnam",
+   "facility": "King George Hospital, Visakhapatnam, 530002",
+   "pin": "530002",
+   "phones": [
+    "8008553400"
+   ],
+   "lat": 17.713,
+   "lon": 83.308,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-4",
+   "state": "Andhra Pradesh",
+   "district": "Rajahmundry",
+   "facility": "Government General Hospital, Jail Road, Rajahmahendhravaram - 533105",
+   "pin": "533105",
+   "phones": [
+    "9848038309"
+   ],
+   "lat": 17.013,
+   "lon": 81.788,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-5",
+   "state": "Andhra Pradesh",
+   "district": "Kakinada",
+   "facility": "Govt General Hospital, (TH) Kakinada - 533001",
+   "pin": "533001",
+   "phones": [
+    "9849903870"
+   ],
+   "lat": 16.956,
+   "lon": 82.234,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-6",
+   "state": "Andhra Pradesh",
+   "district": "Eluru",
+   "facility": "Government General Hospital, Near Fire Station, Eluru - 534006",
+   "pin": "534006",
+   "phones": [
+    "9849113744"
+   ],
+   "lat": 16.713,
+   "lon": 81.094,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-7",
+   "state": "Andhra Pradesh",
+   "district": "NTR",
+   "facility": "Government General Hospital, NH - 16 Service Road, NTR Vijayawada - 520008",
+   "pin": "520008",
+   "phones": [
+    "9849903131"
+   ],
+   "lat": 16.51,
+   "lon": 80.667,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-8",
+   "state": "Andhra Pradesh",
+   "district": "Machilipatnam",
+   "facility": "Government General Hospital, Machilipatnam, Krishna - 521002",
+   "pin": "521002",
+   "phones": [
+    "8008553520"
+   ],
+   "lat": 16.217,
+   "lon": 81.174,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-9",
+   "state": "Andhra Pradesh",
+   "district": "Guntur",
+   "facility": "Government General Hospital, Guntur - 522001",
+   "pin": "522001",
+   "phones": [
+    "9849903089"
+   ],
+   "lat": 16.3,
+   "lon": 80.451,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-10",
+   "state": "Andhra Pradesh",
+   "district": "Ongole",
+   "facility": "Government General Hospital, Bhagya Nagar, Ongole - 523001",
+   "pin": "523001",
+   "phones": [
+    "9866385851"
+   ],
+   "lat": 15.504,
+   "lon": 80.043,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-11",
+   "state": "Andhra Pradesh",
+   "district": "Nellore",
+   "facility": "Acsr Ggh, Daramitta, Spsr Nellore - 524003",
+   "pin": "524003",
+   "phones": [
+    "9440968127"
+   ],
+   "lat": 14.433,
+   "lon": 79.976,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-12",
+   "state": "Andhra Pradesh",
+   "district": "Ananthapur",
+   "facility": "Government General Hospital, Ananthaput - 515001",
+   "pin": "515001",
+   "phones": [
+    "9849903080"
+   ],
+   "lat": 14.674,
+   "lon": 77.6,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-13",
+   "state": "Andhra Pradesh",
+   "district": "SVRRGGH",
+   "facility": "SVRRGG Hospital, Alipiri Road, Tirupathi - 517501",
+   "pin": "517501",
+   "phones": [],
+   "phoneUnreadable": true,
+   "lat": 13.633,
+   "lon": 79.42,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-14",
+   "state": "Andhra Pradesh",
+   "district": "Kadapa",
+   "facility": "Government General Hospital, YSR Kadapa - 516002",
+   "pin": "516002",
+   "phones": [
+    "9701501048"
+   ],
+   "lat": 14.475,
+   "lon": 78.835,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-15",
+   "state": "Andhra Pradesh",
+   "district": "Kurnool",
+   "facility": "Govt General Hospital, Budhwarpeta, Kurnool - 518002",
+   "pin": "518002",
+   "phones": [
+    "9849903109"
+   ],
+   "lat": 15.807,
+   "lon": 78.043,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-16",
+   "state": "Andhra Pradesh",
+   "district": "Nandyal",
+   "facility": "Government General Hospital, Sai Baba Nagar, Nandyal - 518502",
+   "pin": "518502",
+   "phones": [
+    "8008553770"
+   ],
+   "lat": 15.475,
+   "lon": 78.481,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-17",
+   "state": "Andhra Pradesh",
+   "district": "Tekkali",
+   "facility": "Area Hospital, Tekkali, Srikakulam - 532201",
+   "pin": "532201",
+   "phones": [
+    "9441707965"
+   ],
+   "lat": 18.487,
+   "lon": 84.085,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-18",
+   "state": "Andhra Pradesh",
+   "district": "Paderu",
+   "facility": "District Hospital, Paderu, Alluri Sitarama Raju - 531024",
+   "pin": "531024",
+   "phones": [
+    "9441052298"
+   ],
+   "lat": 18.08,
+   "lon": 82.665,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-19",
+   "state": "Andhra Pradesh",
+   "district": "Anakapalli",
+   "facility": "District Hospital, Pool Bagh Road, Anakapalli - 531001",
+   "pin": "531001",
+   "phones": [
+    "9182834480"
+   ],
+   "lat": 17.686,
+   "lon": 83.004,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-20",
+   "state": "Andhra Pradesh",
+   "district": "Tanuku",
+   "facility": "Distict Hospital, Rasthrapathi Road, Tanuku, West Godavari - 534211",
+   "pin": "534211",
+   "phones": [
+    "9848362172"
+   ],
+   "lat": 16.752,
+   "lon": 81.681,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-21",
+   "state": "Andhra Pradesh",
+   "district": "Tenali",
+   "facility": "Distict Hospital, New Government General Hospital, Ntr Road Amaravathi, Chenchupeta, Tenali, Guntur - 522202",
+   "pin": "522202",
+   "phones": [
+    "9397811439"
+   ],
+   "lat": 16.242,
+   "lon": 80.642,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-22",
+   "state": "Andhra Pradesh",
+   "district": "Markapuram",
+   "facility": "Area Hospital, Markapur, Prakasam - 523329",
+   "pin": "523329",
+   "phones": [
+    "9985059311"
+   ],
+   "lat": 15.741,
+   "lon": 79.255,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-23",
+   "state": "Andhra Pradesh",
+   "district": "Atmakur",
+   "facility": "District Hospital, Nellore Palem Road, Atmakur, Nellore - 524322",
+   "pin": "524322",
+   "phones": [
+    "9849048947"
+   ],
+   "lat": 14.62,
+   "lon": 79.622,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-24",
+   "state": "Andhra Pradesh",
+   "district": "Hindupur",
+   "facility": "District Hospital, Near New Bus Stand, Hindupur, Satya Sai - 515201",
+   "pin": "515201",
+   "phones": [
+    "9491920304"
+   ],
+   "lat": 13.831,
+   "lon": 77.495,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-25",
+   "state": "Andhra Pradesh",
+   "district": "Madhanapalli",
+   "facility": "District Hospital, Madhanapalli, Annamayya - 517325",
+   "pin": "517325",
+   "phones": [
+    "9849458817"
+   ],
+   "lat": 13.554,
+   "lon": 78.505,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-26",
+   "state": "Andhra Pradesh",
+   "district": "Chittor",
+   "facility": "District Hospital, Chittoor - 517001",
+   "pin": "517001",
+   "phones": [
+    "9866089161"
+   ],
+   "lat": 13.224,
+   "lon": 79.088,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-27",
+   "state": "Andhra Pradesh",
+   "district": "Proddutur",
+   "facility": "District Hospital, Near Ammavarishala Temple, Produttur, YSR Kadapa - 516360",
+   "pin": "516360",
+   "phones": [
+    "8008553710"
+   ],
+   "lat": 14.752,
+   "lon": 78.55,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-28",
+   "state": "Andhra Pradesh",
+   "district": "PALAKONDA",
+   "facility": "Area Hospital, Palakonda, Paravathi Puram Manyam - 532440",
+   "pin": "532440",
+   "phones": [
+    "9440334604"
+   ],
+   "lat": 18.162,
+   "lon": 83.307,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-29",
+   "state": "Andhra Pradesh",
+   "district": "Rajam",
+   "facility": "Area Hospital, Rajam, Vizianagaram - 532127",
+   "pin": "532127",
+   "phones": [
+    "9440063867"
+   ],
+   "lat": 18.462,
+   "lon": 83.658,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-30",
+   "state": "Andhra Pradesh",
+   "district": "Araku",
+   "facility": "Area Hospital, Araku, Alluri Sitarama Raju - 531151",
+   "pin": "531151",
+   "phones": [
+    "9440932514"
+   ],
+   "lat": 18.331,
+   "lon": 82.874,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-31",
+   "state": "Andhra Pradesh",
+   "district": "Narsipatnam",
+   "facility": "Area Hospital, Narsipatnam, Anakapalli - 531116",
+   "pin": "531116",
+   "phones": [
+    "9966996366"
+   ],
+   "lat": 17.672,
+   "lon": 82.634,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-32",
+   "state": "Andhra Pradesh",
+   "district": "Ramachandrapuram",
+   "facility": "Area Hospital, Ramachandrapuram, Konaseema - 533255",
+   "pin": "533255",
+   "phones": [
+    "8309626263"
+   ],
+   "lat": 16.836,
+   "lon": 82.03,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-33",
+   "state": "Andhra Pradesh",
+   "district": "Amalapuram",
+   "facility": "Area Hospital, Amalapuram, Konaseema - 533201",
+   "pin": "533201",
+   "phones": [
+    "9440273385"
+   ],
+   "lat": 16.578,
+   "lon": 81.997,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-34",
+   "state": "Andhra Pradesh",
+   "district": "Tuni",
+   "facility": "Area Hospital, Tuni, Kakinada - 533401",
+   "pin": "533401",
+   "phones": [
+    "9912105770"
+   ],
+   "lat": 17.355,
+   "lon": 82.541,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-35",
+   "state": "Andhra Pradesh",
+   "district": "Jangareddygudem",
+   "facility": "MNM Area Hospital, Srinivasapuram Road, Jangareddygudem, Eluru - 534447",
+   "pin": "534447",
+   "phones": [
+    "9849175525"
+   ],
+   "lat": 17.119,
+   "lon": 81.29,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-36",
+   "state": "Andhra Pradesh",
+   "district": "Nuzvid",
+   "facility": "Area Hospital, Nuzvid, Eluru - 521201",
+   "pin": "521201",
+   "phones": [
+    "9394775444"
+   ],
+   "lat": 16.787,
+   "lon": 80.848,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-37",
+   "state": "Andhra Pradesh",
+   "district": "Tadepalligudem",
+   "facility": "Area Hospital, Tadepalligudem, West Godavari - 534101",
+   "pin": "534101",
+   "phones": [
+    "8008553490"
+   ],
+   "lat": 16.835,
+   "lon": 81.536,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-38",
+   "state": "Andhra Pradesh",
+   "district": "Gudiwada",
+   "facility": "Area Hospital, Gudiwada, Krishna - 521301",
+   "pin": "521301",
+   "phones": [
+    "9848211899"
+   ],
+   "lat": 16.433,
+   "lon": 80.995,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-39",
+   "state": "Andhra Pradesh",
+   "district": "Narasaraopet",
+   "facility": "Area Hospital, Narasaraopeta, Palnadu - 522601",
+   "pin": "522601",
+   "phones": [
+    "9440517305"
+   ],
+   "lat": 16.233,
+   "lon": 80.05,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-40",
+   "state": "Andhra Pradesh",
+   "district": "Bapatla",
+   "facility": "Area Hospital, Baptla - 522101",
+   "pin": "522101",
+   "phones": [
+    "9848419951"
+   ],
+   "lat": 15.944,
+   "lon": 80.468,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-41",
+   "state": "Andhra Pradesh",
+   "district": "Chirala",
+   "facility": "Area Hospital, Chirala, Bapatla - 523157",
+   "pin": "523157",
+   "phones": [
+    "9849114277"
+   ],
+   "lat": 15.832,
+   "lon": 80.363,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-42",
+   "state": "Andhra Pradesh",
+   "district": "Kandukur",
+   "facility": "Area Hospital, Kandukur, Nellore - 523105",
+   "pin": "523105",
+   "phones": [
+    "9010253126"
+   ],
+   "lat": 15.213,
+   "lon": 79.904,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-43",
+   "state": "Andhra Pradesh",
+   "district": "Kavali",
+   "facility": "Area Hospital, Kavali, Nellore - 524201",
+   "pin": "524201",
+   "phones": [
+    "9849172344"
+   ],
+   "lat": 14.908,
+   "lon": 79.992,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-44",
+   "state": "Andhra Pradesh",
+   "district": "Kadiri",
+   "facility": "Area Hospital, Kadiri, Satya Sai - 515591",
+   "pin": "515591",
+   "phones": [
+    "9866365247"
+   ],
+   "lat": 14.111,
+   "lon": 78.16,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-45",
+   "state": "Andhra Pradesh",
+   "district": "Guntakal",
+   "facility": "Area Hospital, Guntakal, Ananthaput - 515801",
+   "pin": "515801",
+   "phones": [
+    "9642353654"
+   ],
+   "lat": 15.164,
+   "lon": 77.378,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-46",
+   "state": "Andhra Pradesh",
+   "district": "Gudur",
+   "facility": "Area Hospital, Gudur, Tirupathi - 524101",
+   "pin": "524101",
+   "phones": [
+    "9440786108"
+   ],
+   "lat": 14.156,
+   "lon": 79.854,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-47",
+   "state": "Andhra Pradesh",
+   "district": "Nagari",
+   "facility": "Area Hospital, Nagari, Chittoor - 517590",
+   "pin": "517590",
+   "phones": [
+    "9440996039"
+   ],
+   "lat": 13.322,
+   "lon": 79.586,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-48",
+   "state": "Andhra Pradesh",
+   "district": "Srikalahasti",
+   "facility": "Area Hospital, Srikalahasti, Chittoor - 517644",
+   "pin": "517644",
+   "phones": [
+    "9440213992"
+   ],
+   "lat": 13.753,
+   "lon": 79.705,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-49",
+   "state": "Andhra Pradesh",
+   "district": "Kuppam",
+   "facility": "Area Hospital, Kuppam, Chittoor - 517425",
+   "pin": "517425",
+   "phones": [
+    "9603430594"
+   ],
+   "lat": 12.728,
+   "lon": 78.426,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-50",
+   "state": "Andhra Pradesh",
+   "district": "Palamner",
+   "facility": "Area Hospital, KVS Street, Palamaner, Chittoor - 517408",
+   "pin": "517408",
+   "phones": [
+    "9440216266"
+   ],
+   "lat": 13.207,
+   "lon": 78.739,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-51",
+   "state": "Andhra Pradesh",
+   "district": "Pulivendula",
+   "facility": "Area Hospital, Pulivendula, Ysr Kadapa - 516390",
+   "pin": "516390",
+   "phones": [
+    "9000998343"
+   ],
+   "lat": 14.42,
+   "lon": 78.228,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-52",
+   "state": "Andhra Pradesh",
+   "district": "Adoni",
+   "facility": "Area Hospital, Adoni, Kurnool - 518301",
+   "pin": "518301",
+   "phones": [
+    "9502300596"
+   ],
+   "lat": 15.624,
+   "lon": 77.274,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-53",
+   "state": "Andhra Pradesh",
+   "district": "Parvathipuram",
+   "facility": "Teaching Hospital, Parvathipuram Manyam - 535501",
+   "pin": "535501",
+   "phones": [
+    "9652083038"
+   ],
+   "lat": 18.776,
+   "lon": 83.425,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-54",
+   "state": "Chandigarh",
+   "district": "U.T. (CHANDIGARH)",
+   "facility": "Hwc - 19 Chandigarg (Model Anti - Rabies Clinic) Pincode - 160019",
+   "pin": "160019",
+   "phones": [
+    "9417400740"
+   ],
+   "lat": 30.73,
+   "lon": 76.796,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-55",
+   "state": "Chhattisgarh",
+   "district": "Raipur",
+   "facility": "Pt Jawahar Lal Nehru Memorial Medical College, Raipur",
+   "phones": [
+    "9424128625"
+   ],
+   "lat": 21.238,
+   "lon": 81.634,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-56",
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "district": "Dadra Nagar Haveli",
+   "facility": "Shri Vinoba Bhave Civil Hospital Silvassa",
+   "phones": [],
+   "lat": 20.271,
+   "lon": 73.008,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-57",
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "district": "Daman",
+   "facility": "Government Hospital Daman",
+   "phones": [],
+   "lat": 20.433,
+   "lon": 72.832,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-58",
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "district": "Diu",
+   "facility": "District Hospital Diu",
+   "phones": [],
+   "lat": 20.714,
+   "lon": 70.985,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-59",
+   "state": "Delhi",
+   "district": "Central",
+   "facility": "Hindu Rao Hospital",
+   "phones": [
+    "9910479687"
+   ],
+   "lat": 28.676,
+   "lon": 77.212,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-60",
+   "state": "Delhi",
+   "district": "North East",
+   "facility": "Jag Parvesh Chander Hospital",
+   "phones": [
+    "7290076954"
+   ],
+   "lat": 28.673,
+   "lon": 77.292,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-61",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Sanjay Gandhi Memorial Hospital",
+   "phones": [
+    "8373916054"
+   ],
+   "lat": 28.694,
+   "lon": 77.08,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-62",
+   "state": "Delhi",
+   "district": "Shahdara, East Delhi",
+   "facility": "Guru Teg Bahadur Hospital (G.T.B.H.)",
+   "phones": [
+    "9625900519",
+    "9013281404"
+   ],
+   "lat": 28.669,
+   "lon": 77.292,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-63",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Indira Gandhi Hospital",
+   "phones": [
+    "8800267192"
+   ],
+   "lat": 28.704,
+   "lon": 77.103,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-64",
+   "state": "Delhi",
+   "district": "Central District",
+   "facility": "Aruna Asaf Ali Govt. Hospital",
+   "phones": [
+    "9560593055"
+   ],
+   "lat": 28.67,
+   "lon": 77.218,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-65",
+   "state": "Delhi",
+   "district": "West District",
+   "facility": "Acharyaashree Bhikshu Hospital",
+   "phones": [
+    "9717691893"
+   ],
+   "lat": 28.706,
+   "lon": 77.109,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-66",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Babu Jagjivan Ram Hospital",
+   "phones": [
+    "9560275040"
+   ],
+   "lat": 28.704,
+   "lon": 77.103,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-67",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Bhagwan Mahaveer Hospital",
+   "phones": [
+    "9717293531"
+   ],
+   "lat": 28.704,
+   "lon": 77.103,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-68",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Baba Saheb Ambedkar Hospital",
+   "phones": [
+    "7290095407"
+   ],
+   "lat": 28.714,
+   "lon": 77.114,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-69",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Deep Chand Bandhu Hospital",
+   "phones": [
+    "9560593045",
+    "8929121701"
+   ],
+   "lat": 28.682,
+   "lon": 77.178,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-70",
+   "state": "Delhi",
+   "district": "West District",
+   "facility": "Deen Dayal Upadhyay Hospital",
+   "phones": [
+    "9718990202"
+   ],
+   "lat": 28.706,
+   "lon": 77.109,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-71",
+   "state": "Delhi",
+   "district": "East District",
+   "facility": "Dr. Hedgewar Arogya Sansthan",
+   "phones": [
+    "9582500348"
+   ],
+   "lat": 28.719,
+   "lon": 77.265,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-72",
+   "state": "Delhi",
+   "district": "West Delhi",
+   "facility": "Esi - Hospital, Basai Darapur",
+   "phones": [],
+   "lat": 28.657,
+   "lon": 77.133,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-73",
+   "state": "Delhi",
+   "district": "West Delhi",
+   "facility": "Guru Govind Singh Govt. Hospital",
+   "phones": [
+    "9718500463"
+   ],
+   "lat": 28.641,
+   "lon": 77.095,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-74",
+   "state": "Delhi",
+   "district": "West",
+   "facility": "Janak Puri Super Speciality Hospital",
+   "phones": [],
+   "lat": 28.641,
+   "lon": 77.095,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-75",
+   "state": "Delhi",
+   "district": "East",
+   "facility": "Lal Bahadur Shastri Hospital (L.B.S.)",
+   "phones": [
+    "9582500415"
+   ],
+   "lat": 28.586,
+   "lon": 77.226,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-76",
+   "state": "Delhi",
+   "district": "North District",
+   "facility": "Lok Nayak Hospital",
+   "phones": [
+    "9873617520"
+   ],
+   "lat": 28.706,
+   "lon": 77.109,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-77",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Maharishi Balmiki Hospital",
+   "phones": [
+    "9718502027"
+   ],
+   "lat": 28.704,
+   "lon": 77.103,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-78",
+   "state": "Delhi",
+   "district": "North Delhi",
+   "facility": "Maharishi Valmiki Infectious Diseases Hospital",
+   "phones": [
+    "9873398887"
+   ],
+   "lat": 28.732,
+   "lon": 77.185,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-79",
+   "state": "Delhi",
+   "district": "Central Delhi",
+   "facility": "Dr. N.C. Joshi Hospital",
+   "phones": [
+    "7827953505"
+   ],
+   "lat": 28.639,
+   "lon": 77.162,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-80",
+   "state": "Delhi",
+   "district": "South",
+   "facility": "Pt. Madan Mohan Malviya Hospital",
+   "phones": [
+    "9582433163"
+   ],
+   "lat": 28.536,
+   "lon": 77.214,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-81",
+   "state": "Delhi",
+   "district": "South West",
+   "facility": "Rao Tula Ram Memorial Hospital",
+   "phones": [
+    "9999998600"
+   ],
+   "lat": 28.594,
+   "lon": 76.913,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-82",
+   "state": "Delhi",
+   "district": "Shahdara",
+   "facility": "Dr. Hedgewar Arogya Sansthan, Karkardoom, Delhi - 32",
+   "phones": [],
+   "lat": 28.673,
+   "lon": 77.29,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-83",
+   "state": "Delhi",
+   "district": "Shahdara",
+   "facility": "Swami Dayanand Hospital",
+   "phones": [
+    "8588888256"
+   ],
+   "lat": 28.679,
+   "lon": 77.304,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-84",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Ambedkar Hospital Sector - 6, Rohini, Delhi - 110085",
+   "pin": "110085",
+   "phones": [],
+   "lat": 28.719,
+   "lon": 77.115,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-85",
+   "state": "Delhi",
+   "district": "South west",
+   "facility": "Janakpuri Super Speciality Hospital, Delhi",
+   "phones": [],
+   "lat": 28.586,
+   "lon": 77.07,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-86",
+   "state": "Delhi",
+   "district": "South East",
+   "facility": "ESIC Hospital Okhla Phase - 1, New Delhi - 110020 (Maa Anandmayee Marg)",
+   "pin": "110020",
+   "phones": [],
+   "lat": 28.556,
+   "lon": 77.237,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-87",
+   "state": "Delhi",
+   "district": "North West",
+   "facility": "Satyawadi Raja Harish Chandra Hospital",
+   "phones": [
+    "7678119157"
+   ],
+   "lat": 28.704,
+   "lon": 77.103,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-88",
+   "state": "Delhi",
+   "district": "Central",
+   "facility": "Sardar Vallabh Bhai Patel Hospital",
+   "phones": [
+    "9811414410"
+   ],
+   "lat": 28.647,
+   "lon": 77.169,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-89",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "North Goa District Hospital, Mapusa",
+   "phones": [
+    "9011025029"
+   ],
+   "lat": 15.591,
+   "lon": 73.81,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-90",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "CHC Bicholim",
+   "phones": [
+    "9011025053"
+   ],
+   "lat": 15.556,
+   "lon": 73.977,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-91",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "CHC Pernem",
+   "phones": [
+    "7447769032"
+   ],
+   "lat": 15.689,
+   "lon": 73.792,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-92",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "CHC Sanquelim",
+   "phones": [
+    "7447769031"
+   ],
+   "lat": 15.563,
+   "lon": 74.011,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-93",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "CHC Valpoi",
+   "phones": [
+    "9011025942"
+   ],
+   "lat": 15.531,
+   "lon": 74.137,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-94",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Aldona",
+   "phones": [
+    "9011025030"
+   ],
+   "lat": 15.578,
+   "lon": 73.863,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-95",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Betki",
+   "phones": [
+    "9011025026"
+   ],
+   "lat": 15.604,
+   "lon": 73.997,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-96",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Candolim",
+   "phones": [
+    "9011025035"
+   ],
+   "lat": 15.52,
+   "lon": 73.766,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-97",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Cansarvarne",
+   "phones": [
+    "9011025045"
+   ],
+   "lat": 15.604,
+   "lon": 73.997,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-98",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Colvale",
+   "phones": [
+    "9011025055"
+   ],
+   "lat": 15.644,
+   "lon": 73.837,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-99",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Corlim",
+   "phones": [
+    "9011025020"
+   ],
+   "lat": 15.495,
+   "lon": 73.947,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-100",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Mayem",
+   "phones": [
+    "9011025027"
+   ],
+   "lat": 15.587,
+   "lon": 73.908,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-101",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Porvorim",
+   "phones": [
+    "9011025040"
+   ],
+   "lat": 15.527,
+   "lon": 73.834,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-102",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "PHC Siolim",
+   "phones": [
+    "7447436762"
+   ],
+   "lat": 15.614,
+   "lon": 73.772,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-103",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "RHTC Mandur",
+   "phones": [
+    "9637726065"
+   ],
+   "lat": 15.451,
+   "lon": 73.921,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-104",
+   "state": "Goa",
+   "district": "North Goa",
+   "facility": "UHC Panjim",
+   "phones": [
+    "9822120133"
+   ],
+   "lat": 15.499,
+   "lon": 73.828,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-105",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "Hospicio Hospital, Margao",
+   "phones": [
+    "9011025065"
+   ],
+   "lat": 15.279,
+   "lon": 73.961,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-106",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "Sub District Hospital, Chicalim",
+   "phones": [
+    "9011025060"
+   ],
+   "lat": 15.392,
+   "lon": 73.834,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-107",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "Sub District Hospital, Ponda",
+   "phones": [
+    "9011025049"
+   ],
+   "lat": 15.393,
+   "lon": 74.006,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-108",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "CHC Canacona",
+   "phones": [
+    "9011025067"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-109",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "CHC Curchorem",
+   "phones": [
+    "9011025042"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-110",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Bali",
+   "phones": [
+    "9011025044"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-111",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Cansaulim",
+   "phones": [
+    "9011025034"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-112",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Chinchinim",
+   "phones": [
+    "9011025060"
+   ],
+   "lat": 15.211,
+   "lon": 73.977,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-113",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Cortalim",
+   "phones": [
+    "9011025043"
+   ],
+   "lat": 15.397,
+   "lon": 73.917,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-114",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Curtorim",
+   "phones": [
+    "7447769034"
+   ],
+   "lat": 15.292,
+   "lon": 74.024,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-115",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Loutolim",
+   "phones": [
+    "9011025943"
+   ],
+   "lat": 15.339,
+   "lon": 73.991,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-116",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Marcaim",
+   "phones": [
+    "9011025028"
+   ],
+   "lat": 15.422,
+   "lon": 73.95,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-117",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Navelim",
+   "phones": [
+    "9011025047"
+   ],
+   "lat": 15.257,
+   "lon": 73.966,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-118",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Pillem, Dharbandora",
+   "phones": [
+    "9011025048"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-119",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Quepem",
+   "phones": [
+    "9011025064"
+   ],
+   "lat": 15.214,
+   "lon": 74.071,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-120",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Sanguem",
+   "phones": [
+    "7447769035"
+   ],
+   "lat": 15.338,
+   "lon": 73.994,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-121",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "PHC Shiroda",
+   "phones": [
+    "9011025051"
+   ],
+   "lat": 15.32,
+   "lon": 74.029,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-122",
+   "state": "Goa",
+   "district": "South Goa",
+   "facility": "UHC Margao",
+   "phones": [
+    "9011025063"
+   ],
+   "lat": 15.273,
+   "lon": 73.958,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-123",
+   "state": "Gujarat",
+   "district": "Ahmedabad",
+   "facility": "Civil Hospital Asarwa, Ahmedabad",
+   "phones": [
+    "07922683721"
+   ],
+   "lat": 23.047,
+   "lon": 72.609,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-124",
+   "state": "Gujarat",
+   "district": "Surat",
+   "facility": "Government Medical College, Surat",
+   "phones": [
+    "9377856000"
+   ],
+   "lat": 21.178,
+   "lon": 72.82,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-125",
+   "state": "Gujarat",
+   "district": "Mehsana",
+   "facility": "District Hospital, Mehsana",
+   "phones": [
+    "9898398868"
+   ],
+   "lat": 23.601,
+   "lon": 72.374,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-126",
+   "state": "Gujarat",
+   "district": "Junagadh",
+   "facility": "GMERS Medical College, Junagadh",
+   "phones": [
+    "9909462412"
+   ],
+   "lat": 21.522,
+   "lon": 70.458,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-127",
+   "state": "Jammu and Kashmir",
+   "district": "Bakshi Nagar",
+   "facility": "Govt. Medical College, Bakshi Nagar Jammu",
+   "phones": [
+    "9419680490",
+    "9149505922"
+   ],
+   "lat": 32.736,
+   "lon": 74.857,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-128",
+   "state": "Jharkhand",
+   "district": "Ranchi",
+   "facility": "Sadar Hosptal Ranchi",
+   "phones": [
+    "9308989522"
+   ],
+   "lat": 23.37,
+   "lon": 85.325,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-129",
+   "state": "Jharkhand",
+   "district": "Ranchi",
+   "facility": "RIMS, Ranchi",
+   "phones": [
+    "7728960405"
+   ],
+   "lat": 23.37,
+   "lon": 85.325,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-130",
+   "state": "Karnataka",
+   "district": "Bagalakote",
+   "facility": "District Hospital, Bagalakote",
+   "phones": [
+    "9448646500"
+   ],
+   "lat": 16.165,
+   "lon": 75.661,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-131",
+   "state": "Karnataka",
+   "district": "Ballari",
+   "facility": "District Hospital, Ballari",
+   "phones": [
+    "9448024123"
+   ],
+   "lat": 15.145,
+   "lon": 76.935,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-132",
+   "state": "Karnataka",
+   "district": "Bangalore Rural",
+   "facility": "Taluk Hospital, Doddballapur",
+   "phones": [
+    "9480231664"
+   ],
+   "lat": 13.001,
+   "lon": 77.336,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-133",
+   "state": "Karnataka",
+   "district": "Bangalore Urban",
+   "facility": "Epidemic Diseases Hospital, Old Madras Road, Bangalore - 38",
+   "phones": [
+    "9745194251"
+   ],
+   "lat": 12.977,
+   "lon": 77.59,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-134",
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "facility": "District BIMS Hospital, Dr. B.R.Amedkar Road, Belagavi",
+   "phones": [
+    "9538075939"
+   ],
+   "lat": 16.159,
+   "lon": 74.889,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-135",
+   "state": "Karnataka",
+   "district": "Bidar",
+   "facility": "District Hospital, BIDAR",
+   "phones": [
+    "9845433848"
+   ],
+   "lat": 18.021,
+   "lon": 77.249,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-136",
+   "state": "Karnataka",
+   "district": "Chamarajanagara",
+   "facility": "District Hospital, Chamarajanagar",
+   "phones": [
+    "8310886584"
+   ],
+   "lat": 11.924,
+   "lon": 76.939,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-137",
+   "state": "Karnataka",
+   "district": "Chikkamagaluru",
+   "facility": "District Hospital, Chikkamagaluru",
+   "phones": [
+    "9480659622"
+   ],
+   "lat": 13.316,
+   "lon": 75.776,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-138",
+   "state": "Karnataka",
+   "district": "Chitradurga",
+   "facility": "District Hospital Chitradurga",
+   "phones": [
+    "9448977511"
+   ],
+   "lat": 14.22,
+   "lon": 76.406,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-139",
+   "state": "Karnataka",
+   "district": "Davanagere",
+   "facility": "District Hospital, Davanagere",
+   "phones": [
+    "9740108431"
+   ],
+   "lat": 14.457,
+   "lon": 75.916,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-140",
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "facility": "District Hospital Dharwad",
+   "phones": [
+    "9986735108"
+   ],
+   "lat": 15.444,
+   "lon": 75.008,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-141",
+   "state": "Karnataka",
+   "district": "DK",
+   "facility": "Taluk hospital, Belthangady",
+   "phones": [
+    "9448720091"
+   ],
+   "lat": 12.988,
+   "lon": 75.276,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-142",
+   "state": "Karnataka",
+   "district": "Gadag",
+   "facility": "District hospital Mallasamudra Gadag",
+   "phones": [
+    "8147777339"
+   ],
+   "lat": 15.417,
+   "lon": 75.682,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-143",
+   "state": "Karnataka",
+   "district": "Gulbarga",
+   "facility": "District Hospital, Kalaburagi",
+   "phones": [
+    "9741095910"
+   ],
+   "lat": 17.328,
+   "lon": 76.843,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-144",
+   "state": "Karnataka",
+   "district": "Hassan",
+   "facility": "HIMS Hassan",
+   "phones": [
+    "9141628145"
+   ],
+   "lat": 13.03,
+   "lon": 76.174,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-145",
+   "state": "Karnataka",
+   "district": "Haveri",
+   "facility": "District Hospital P.B Road Haveri",
+   "phones": [
+    "9880424656"
+   ],
+   "lat": 14.718,
+   "lon": 75.366,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-146",
+   "state": "Karnataka",
+   "district": "Kodagu",
+   "facility": "KOIMS Madikeri",
+   "phones": [
+    "9916004044"
+   ],
+   "lat": 12.421,
+   "lon": 75.739,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-147",
+   "state": "Karnataka",
+   "district": "Kolar",
+   "facility": "Physician, SNR Hospital, Kolar",
+   "phones": [
+    "9916466112"
+   ],
+   "lat": 13.181,
+   "lon": 78.267,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-148",
+   "state": "Karnataka",
+   "district": "Koppal",
+   "facility": "KIMS KOPPAL",
+   "phones": [
+    "9972177732"
+   ],
+   "lat": 15.575,
+   "lon": 76.312,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-149",
+   "state": "Karnataka",
+   "district": "Mandya",
+   "facility": "MIMS Mandya",
+   "phones": [
+    "9449023336"
+   ],
+   "lat": 12.637,
+   "lon": 76.728,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-150",
+   "state": "Karnataka",
+   "district": "Mysore",
+   "facility": "District Hospital Mysuru",
+   "phones": [
+    "9482858180"
+   ],
+   "lat": 12.35,
+   "lon": 76.628,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-151",
+   "state": "Karnataka",
+   "district": "Raichur",
+   "facility": "RIMS Teaching Hospital, Raichur",
+   "phones": [
+    "9886003873"
+   ],
+   "lat": 16.055,
+   "lon": 76.9,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-152",
+   "state": "Karnataka",
+   "district": "Ramangara",
+   "facility": "District Hospital, Ramanagar",
+   "phones": [
+    "9632348790"
+   ],
+   "lat": 12.72,
+   "lon": 77.318,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-153",
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "facility": "District Teaching Mcgann Hospital, Shivamogga",
+   "phones": [
+    "9481720101"
+   ],
+   "lat": 13.933,
+   "lon": 75.575,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-154",
+   "state": "Karnataka",
+   "district": "Tumkur",
+   "facility": "District Hospital Tumkur, B H Road, Tumkur",
+   "phones": [
+    "9611125933"
+   ],
+   "lat": 13.34,
+   "lon": 77.101,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-155",
+   "state": "Karnataka",
+   "district": "Udupi",
+   "facility": "District Hospital Udupi, Ajjarkadu, Udupi",
+   "phones": [
+    "9845303326"
+   ],
+   "lat": 13.527,
+   "lon": 74.873,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-156",
+   "state": "Karnataka",
+   "district": "UK",
+   "facility": "District Hospital Karwar, KRIMS karwar",
+   "phones": [
+    "9845401377"
+   ],
+   "lat": 14.812,
+   "lon": 74.132,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-157",
+   "state": "Karnataka",
+   "district": "Vijayapura",
+   "facility": "District Hospital Vijayapur,",
+   "phones": [
+    "8095677044"
+   ],
+   "lat": 16.814,
+   "lon": 75.893,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-158",
+   "state": "Karnataka",
+   "district": "Bangalore Urban",
+   "facility": "Bangalore Medical College and Research Institute",
+   "phones": [
+    "7019428243"
+   ],
+   "lat": 12.977,
+   "lon": 77.59,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-159",
+   "state": "Jammu and Kashmir",
+   "district": "Anantnag",
+   "facility": "Sub District Hospital Bijbhera",
+   "phones": [
+    "9906547659"
+   ],
+   "lat": 33.746,
+   "lon": 75.185,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-160",
+   "state": "Jammu and Kashmir",
+   "district": "Bandipora",
+   "facility": "District Hospital Bandipora",
+   "phones": [],
+   "phoneUnreadable": true,
+   "lat": 34.418,
+   "lon": 74.643,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-161",
+   "state": "Jammu and Kashmir",
+   "district": "Baramulla",
+   "facility": "NTPHC Old Town Baramulla",
+   "phones": [
+    "7006341667"
+   ],
+   "lat": 34.209,
+   "lon": 74.343,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-162",
+   "state": "Jammu and Kashmir",
+   "district": "Budgam",
+   "facility": "Aga Syed Yousuf Memorial Hospital, DH Budgam",
+   "phones": [
+    "7006225665"
+   ],
+   "lat": 33.91,
+   "lon": 74.627,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-163",
+   "state": "Jammu and Kashmir",
+   "district": "Ganderbal",
+   "facility": "District Hospital Budgam",
+   "phones": [
+    "9419405447"
+   ],
+   "lat": 34.289,
+   "lon": 75.041,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-164",
+   "state": "Jammu and Kashmir",
+   "district": "Pulwama",
+   "facility": "District Hospital Pulwama",
+   "phones": [
+    "6006446856"
+   ],
+   "lat": 33.878,
+   "lon": 74.9,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-165",
+   "state": "Jammu and Kashmir",
+   "district": "Kulgam",
+   "facility": "Districtb Hospital Kulgam",
+   "phones": [],
+   "phoneUnreadable": true,
+   "lat": 33.645,
+   "lon": 75.019,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-166",
+   "state": "Jammu and Kashmir",
+   "district": "Kupwara",
+   "facility": "District Hospital Handwara",
+   "phones": [
+    "9469074992"
+   ],
+   "lat": 34.399,
+   "lon": 74.283,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-167",
+   "state": "Jammu and Kashmir",
+   "district": "Shopian",
+   "facility": "District hospital Shopian",
+   "phones": [
+    "9797970797"
+   ],
+   "lat": 33.721,
+   "lon": 74.835,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-168",
+   "state": "Jammu and Kashmir",
+   "district": "Srinagar",
+   "facility": "JLNM Hospital, Rainawari",
+   "phones": [
+    "9419004842"
+   ],
+   "lat": 34.097,
+   "lon": 74.822,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-169",
+   "state": "Kerala",
+   "district": "Thiruvananthapuram",
+   "facility": "General Hospital Thiruvananthapuram",
+   "phones": [
+    "9497273027"
+   ],
+   "lat": 8.5,
+   "lon": 76.942,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-170",
+   "state": "Kerala",
+   "district": "Pathanamthitta",
+   "facility": "General Hospital, Pathanamthitta",
+   "phones": [
+    "9446992336"
+   ],
+   "lat": 9.156,
+   "lon": 76.731,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-171",
+   "state": "Kerala",
+   "district": "Thrissur",
+   "facility": "THQH Chalakkudy, Thrissur",
+   "phones": [
+    "9446581364"
+   ],
+   "lat": 10.331,
+   "lon": 76.549,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-172",
+   "state": "Kerala",
+   "district": "Palakkad",
+   "facility": "District Hospital, Palakkad",
+   "phones": [
+    "7837092900"
+   ],
+   "lat": 10.769,
+   "lon": 76.658,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-173",
+   "state": "Kerala",
+   "district": "Kozhikode",
+   "facility": "General Hospital, Beach, Kozhikode",
+   "phones": [
+    "9400457000"
+   ],
+   "lat": 11.257,
+   "lon": 75.771,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-174",
+   "state": "Kerala",
+   "district": "Thrishur",
+   "facility": "GMCH Thrishur",
+   "phones": [
+    "9447039135"
+   ],
+   "lat": 10.479,
+   "lon": 76.274,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-175",
+   "state": "Maharashtra",
+   "district": "Thane",
+   "facility": "District Hospital, Thane",
+   "phones": [
+    "9869685282"
+   ],
+   "lat": 19.365,
+   "lon": 73.369,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-176",
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "facility": "District Hospital, Nashik",
+   "phones": [
+    "7972259895"
+   ],
+   "lat": 20.011,
+   "lon": 73.79,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-177",
+   "state": "Maharashtra",
+   "district": "Pune",
+   "facility": "District Hospital, Pune",
+   "phones": [
+    "9665426867"
+   ],
+   "lat": 18.521,
+   "lon": 73.855,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-178",
+   "state": "Maharashtra",
+   "district": "Ratnagiri",
+   "facility": "District Hospital, Ratnagiri",
+   "phones": [
+    "9850741450"
+   ],
+   "lat": 17.283,
+   "lon": 73.457,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-179",
+   "state": "Maharashtra",
+   "district": "Osmanabad",
+   "facility": "District Hospital, Osmanabad",
+   "phones": [
+    "8208835054"
+   ],
+   "lat": 18.188,
+   "lon": 76.036,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-180",
+   "state": "Maharashtra",
+   "district": "Amravati",
+   "facility": "District Hospital, Amravati",
+   "phones": [
+    "8855823455"
+   ],
+   "lat": 20.931,
+   "lon": 77.777,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-181",
+   "state": "Maharashtra",
+   "district": "Bhandara",
+   "facility": "District Hospital, Bhandara",
+   "phones": [
+    "9404001729"
+   ],
+   "lat": 21.162,
+   "lon": 79.66,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-182",
+   "state": "Maharashtra",
+   "district": "Jalna",
+   "facility": "District Hospital, Jalna",
+   "phones": [
+    "9421287714"
+   ],
+   "lat": 19.832,
+   "lon": 75.874,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-183",
+   "state": "Manipur",
+   "district": "Bishnupur",
+   "facility": "Dist. Hospital(BPR)",
+   "phones": [
+    "8974515184"
+   ],
+   "lat": 24.627,
+   "lon": 93.76,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-184",
+   "state": "Manipur",
+   "district": "Chandel",
+   "facility": "Dist. Hospital Chandel",
+   "phones": [
+    "8258066504"
+   ],
+   "lat": 24.316,
+   "lon": 93.985,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-185",
+   "state": "Manipur",
+   "district": "Churachandpur",
+   "facility": "Dist. Hospital (CCP)",
+   "phones": [
+    "7005033584"
+   ],
+   "lat": 24.347,
+   "lon": 93.699,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-186",
+   "state": "Manipur",
+   "district": "Jiribam",
+   "facility": "SDH, Jiribam",
+   "phones": [
+    "8257017703"
+   ],
+   "lat": 24.802,
+   "lon": 93.117,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-187",
+   "state": "Manipur",
+   "district": "Imphal East",
+   "facility": "Sawombung",
+   "phones": [
+    "9856116242"
+   ],
+   "lat": 24.87,
+   "lon": 94.011,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-188",
+   "state": "Manipur",
+   "district": "Imphal West",
+   "facility": "CHC, Wangoi",
+   "phones": [
+    "8787341730"
+   ],
+   "lat": 24.655,
+   "lon": 93.869,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-189",
+   "state": "Meghalaya",
+   "district": "East Khasi Hills",
+   "facility": "Pasteur Institute, Directorate of Health Services (Research etc.), Shillong",
+   "phones": [
+    "03642591510"
+   ],
+   "lat": 25.576,
+   "lon": 91.883,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-190",
+   "state": "Meghalaya",
+   "district": "West Khasi Hills",
+   "facility": "Nongstoin Civil Hospital",
+   "phones": [],
+   "lat": 25.556,
+   "lon": 91.229,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-191",
+   "state": "Meghalaya",
+   "district": "West Jaintia Hills",
+   "facility": "Jowai Civil Hospital",
+   "phones": [],
+   "lat": 25.468,
+   "lon": 92.261,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-192",
+   "state": "Puducherry",
+   "district": "Puducherry",
+   "facility": "IGGGH&PGI(Dr. S.Guneswari)",
+   "phones": [
+    "9367519072"
+   ],
+   "lat": 11.934,
+   "lon": 79.831,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-193",
+   "state": "Puducherry",
+   "district": "Karaikal",
+   "facility": "GH (Dr. Sivarajakumar)",
+   "phones": [
+    "9442861849"
+   ],
+   "lat": 10.916,
+   "lon": 79.838,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-194",
+   "state": "Puducherry",
+   "district": "Mahe",
+   "facility": "GH (Dr. Muhammad Kudadathage)",
+   "phones": [
+    "9446166349"
+   ],
+   "lat": 11.702,
+   "lon": 75.536,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-195",
+   "state": "Puducherry",
+   "district": "Yanam",
+   "facility": "GH (Dr. K.Satyanarayanan)",
+   "phones": [
+    "8184960918"
+   ],
+   "lat": 16.739,
+   "lon": 82.211,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-196",
+   "state": "Punjab",
+   "district": "Amritsar",
+   "facility": "District Hospital",
+   "phones": [
+    "9915598280"
+   ],
+   "lat": 31.636,
+   "lon": 74.879,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-197",
+   "state": "Punjab",
+   "district": "Barnala",
+   "facility": "District Hospital",
+   "phones": [
+    "9872462818"
+   ],
+   "lat": 30.384,
+   "lon": 75.543,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-198",
+   "state": "Punjab",
+   "district": "Bathinda",
+   "facility": "District Hospital",
+   "phones": [
+    "9888283693"
+   ],
+   "lat": 30.195,
+   "lon": 74.95,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-199",
+   "state": "Punjab",
+   "district": "Ferozepur",
+   "facility": "District Hospital",
+   "phones": [
+    "9569752035"
+   ],
+   "lat": 30.684,
+   "lon": 76.359,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-200",
+   "state": "Punjab",
+   "district": "Fazilka",
+   "facility": "District Hospital",
+   "phones": [
+    "9417028659"
+   ],
+   "lat": 30.32,
+   "lon": 74.122,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-201",
+   "state": "Punjab",
+   "district": "Faridkot",
+   "facility": "District Hospital",
+   "phones": [
+    "9988050232"
+   ],
+   "lat": 30.446,
+   "lon": 74.949,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-202",
+   "state": "Punjab",
+   "district": "Fatehgarh Sahib",
+   "facility": "District Hospital",
+   "phones": [
+    "7417308266"
+   ],
+   "lat": 30.663,
+   "lon": 76.38,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-203",
+   "state": "Punjab",
+   "district": "Gurdaspur",
+   "facility": "District Hospital",
+   "phones": [
+    "9814165711"
+   ],
+   "lat": 32.034,
+   "lon": 75.397,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-204",
+   "state": "Punjab",
+   "district": "Hoshiarpur",
+   "facility": "District Hospital",
+   "phones": [
+    "9464416802"
+   ],
+   "lat": 31.53,
+   "lon": 75.9,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-205",
+   "state": "Punjab",
+   "district": "Jalandhar",
+   "facility": "District Hospital",
+   "phones": [
+    "9779519865"
+   ],
+   "lat": 31.307,
+   "lon": 75.597,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-206",
+   "state": "Punjab",
+   "district": "Kapurthala",
+   "facility": "District Hospital",
+   "phones": [
+    "8558838588",
+    "7814488501"
+   ],
+   "lat": 31.386,
+   "lon": 75.305,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-207",
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "facility": "District Hospital",
+   "phones": [
+    "6239567128"
+   ],
+   "lat": 30.903,
+   "lon": 75.816,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-208",
+   "state": "Punjab",
+   "district": "Mansa",
+   "facility": "District Hospital",
+   "phones": [
+    "9463180593"
+   ],
+   "lat": 29.876,
+   "lon": 75.489,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-209",
+   "state": "Punjab",
+   "district": "Moga",
+   "facility": "District Hospital",
+   "phones": [
+    "9888770910"
+   ],
+   "lat": 30.788,
+   "lon": 75.159,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-210",
+   "state": "Punjab",
+   "district": "Malarkotla",
+   "facility": "District Hospital",
+   "phones": [
+    "8699338401"
+   ],
+   "lat": 30.533,
+   "lon": 75.881,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-211",
+   "state": "Punjab",
+   "district": "Rupnagar",
+   "facility": "District Hospital",
+   "phones": [
+    "7986578865"
+   ],
+   "lat": 31.092,
+   "lon": 76.529,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-212",
+   "state": "Punjab",
+   "district": "Patiala",
+   "facility": "District Hospital",
+   "phones": [
+    "9855556030"
+   ],
+   "lat": 30.209,
+   "lon": 76.34,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-213",
+   "state": "Punjab",
+   "district": "Pathankot",
+   "facility": "District Hospital",
+   "phones": [
+    "7508264878"
+   ],
+   "lat": 32.302,
+   "lon": 75.659,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-214",
+   "state": "Punjab",
+   "district": "Shri Muktsar Sahib",
+   "facility": "District Hospital",
+   "phones": [
+    "9781022024"
+   ],
+   "lat": 30.474,
+   "lon": 74.51,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-215",
+   "state": "Punjab",
+   "district": "SBS Nagar",
+   "facility": "District Hospital",
+   "phones": [
+    "9876920010"
+   ],
+   "lat": 30.826,
+   "lon": 75.199,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-216",
+   "state": "Punjab",
+   "district": "SAS Nagar",
+   "facility": "District Hospital",
+   "phones": [
+    "9988812529"
+   ],
+   "lat": 30.69,
+   "lon": 76.712,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-217",
+   "state": "Punjab",
+   "district": "Sangrur",
+   "facility": "District Hospital",
+   "phones": [
+    "9779238211"
+   ],
+   "lat": 30.136,
+   "lon": 75.853,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-218",
+   "state": "Punjab",
+   "district": "Tarn Taran",
+   "facility": "District Hospital",
+   "phones": [
+    "9041102282"
+   ],
+   "lat": 31.222,
+   "lon": 74.736,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-219",
+   "state": "Rajasthan",
+   "district": "Ajmer",
+   "facility": "DH Beawar ajmer",
+   "phones": [],
+   "lat": 26.469,
+   "lon": 74.639,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-220",
+   "state": "Rajasthan",
+   "district": "Alwar",
+   "facility": "Satelite Hospital, Kala Kua Alwar",
+   "phones": [],
+   "lat": 27.414,
+   "lon": 76.617,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-221",
+   "state": "Rajasthan",
+   "district": "Banswara",
+   "facility": "DH Banswara",
+   "phones": [],
+   "lat": 23.492,
+   "lon": 74.35,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-222",
+   "state": "Rajasthan",
+   "district": "Baran",
+   "facility": "DH Baran",
+   "phones": [],
+   "lat": 24.921,
+   "lon": 76.682,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-223",
+   "state": "Rajasthan",
+   "district": "Barmer",
+   "facility": "DH Barmer",
+   "phones": [],
+   "lat": 25.581,
+   "lon": 71.192,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-224",
+   "state": "Rajasthan",
+   "district": "Bharatpur",
+   "facility": "DH Bharatpur",
+   "phones": [],
+   "lat": 27.025,
+   "lon": 77.292,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-225",
+   "state": "Rajasthan",
+   "district": "Bhilwara",
+   "facility": "DH Bhilwara",
+   "phones": [],
+   "lat": 25.471,
+   "lon": 74.696,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-226",
+   "state": "Rajasthan",
+   "district": "Bikaner",
+   "facility": "PBM Bikaner",
+   "phones": [],
+   "lat": 28.005,
+   "lon": 73.328,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-227",
+   "state": "Rajasthan",
+   "district": "Bundi",
+   "facility": "DH Bundi",
+   "phones": [],
+   "lat": 25.437,
+   "lon": 75.736,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-228",
+   "state": "Rajasthan",
+   "district": "Chittorgarh",
+   "facility": "DH Chittorgarh",
+   "phones": [],
+   "lat": 24.717,
+   "lon": 74.472,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-229",
+   "state": "Rajasthan",
+   "district": "Churu",
+   "facility": "DH Churu",
+   "phones": [],
+   "lat": 28.205,
+   "lon": 74.691,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-230",
+   "state": "Rajasthan",
+   "district": "Dausa",
+   "facility": "DH Dausa",
+   "phones": [],
+   "lat": 26.805,
+   "lon": 76.444,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-231",
+   "state": "Rajasthan",
+   "district": "Dungerpur",
+   "facility": "DH Dungerpur",
+   "phones": [],
+   "lat": 23.854,
+   "lon": 73.709,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-232",
+   "state": "Rajasthan",
+   "district": "Hanumangarh",
+   "facility": "DH Hanumangarh",
+   "phones": [],
+   "lat": 29.366,
+   "lon": 74.298,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-233",
+   "state": "Rajasthan",
+   "district": "Jaipur",
+   "facility": "DH Banipark Jaipur",
+   "phones": [],
+   "lat": 26.915,
+   "lon": 75.819,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-234",
+   "state": "Rajasthan",
+   "district": "Jalore",
+   "facility": "DH Jalore",
+   "phones": [],
+   "lat": 25.209,
+   "lon": 72.318,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-235",
+   "state": "Rajasthan",
+   "district": "Jaisalmer",
+   "facility": "DH Jaisalmer",
+   "phones": [],
+   "lat": 27.026,
+   "lon": 70.778,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-236",
+   "state": "Rajasthan",
+   "district": "Jhalawar",
+   "facility": "DH Jhalrapatan",
+   "phones": [],
+   "lat": 24.542,
+   "lon": 76.174,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-237",
+   "state": "Rajasthan",
+   "district": "Jhunjhunu",
+   "facility": "DH Jhunjhunu",
+   "phones": [],
+   "lat": 28.08,
+   "lon": 75.542,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-238",
+   "state": "Rajasthan",
+   "district": "Jodhpur",
+   "facility": "DH Pawta Jodhpur",
+   "phones": [],
+   "lat": 26.297,
+   "lon": 73.035,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-239",
+   "state": "Rajasthan",
+   "district": "Karauli",
+   "facility": "DH Karauli",
+   "phones": [],
+   "lat": 26.516,
+   "lon": 77.057,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-240",
+   "state": "Rajasthan",
+   "district": "Kota",
+   "facility": "DH Rampura Kota",
+   "phones": [],
+   "lat": 25.174,
+   "lon": 75.857,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-241",
+   "state": "Rajasthan",
+   "district": "Dholpur",
+   "facility": "DH, Dholpur",
+   "phones": [],
+   "lat": 26.701,
+   "lon": 77.897,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-242",
+   "state": "Rajasthan",
+   "district": "Nagaur",
+   "facility": "DH JLN Nagaur",
+   "phones": [],
+   "lat": 26.987,
+   "lon": 73.739,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-243",
+   "state": "Rajasthan",
+   "district": "Pali",
+   "facility": "DH Pali",
+   "phones": [],
+   "lat": 25.455,
+   "lon": 73.419,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-244",
+   "state": "Rajasthan",
+   "district": "Pratapgarh",
+   "facility": "DH Paratpgarh",
+   "phones": [],
+   "lat": 24.023,
+   "lon": 74.625,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-245",
+   "state": "Rajasthan",
+   "district": "Rajsamnd",
+   "facility": "DH Rajsamand",
+   "phones": [],
+   "lat": 25.289,
+   "lon": 73.824,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-246",
+   "state": "Rajasthan",
+   "district": "S.ganaganagar",
+   "facility": "DH Sriganganagar",
+   "phones": [],
+   "lat": 29.461,
+   "lon": 73.585,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-247",
+   "state": "Rajasthan",
+   "district": "S.madhopur",
+   "facility": "DH Swai Madhopur",
+   "phones": [],
+   "lat": 24.523,
+   "lon": 76.183,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-248",
+   "state": "Rajasthan",
+   "district": "Sikar",
+   "facility": "DH SK Sikar",
+   "phones": [],
+   "lat": 27.662,
+   "lon": 75.028,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-249",
+   "state": "Rajasthan",
+   "district": "Sirohi",
+   "facility": "DH Sirohi",
+   "phones": [],
+   "lat": 24.811,
+   "lon": 72.83,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-250",
+   "state": "Rajasthan",
+   "district": "Tonk",
+   "facility": "DH Tonk",
+   "phones": [],
+   "lat": 26.122,
+   "lon": 75.663,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-251",
+   "state": "Rajasthan",
+   "district": "Udaipur",
+   "facility": "DH Hiranmagri Udaipur",
+   "phones": [],
+   "lat": 24.579,
+   "lon": 73.686,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-252",
+   "state": "Sikkim",
+   "district": "EAST",
+   "facility": "STNM HOSPITAL - EMERGENCY",
+   "phones": [
+    "9434103306"
+   ],
+   "lat": 27.586,
+   "lon": 88.11,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-253",
+   "state": "Sikkim",
+   "district": "EAST",
+   "facility": "CRH - EMERGENCY",
+   "phones": [
+    "9647886451"
+   ],
+   "lat": 27.586,
+   "lon": 88.11,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-254",
+   "state": "Sikkim",
+   "district": "EAST",
+   "facility": "DISTRICT HOSPITAL SINGTAM - EMERGENCY",
+   "phones": [
+    "7029342100"
+   ],
+   "lat": 27.586,
+   "lon": 88.11,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-255",
+   "state": "Sikkim",
+   "district": "WEST",
+   "facility": "DISTRICT HOSPITAL GYALSHING - EMERGENCY",
+   "phones": [
+    "9593978922"
+   ],
+   "lat": 27.982,
+   "lon": 88.685,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-256",
+   "state": "Sikkim",
+   "district": "NORTH",
+   "facility": "DISTRICT HOSPITAL NORTH - EMERGENCY",
+   "phones": [
+    "9002362349"
+   ],
+   "lat": 27.667,
+   "lon": 88.5,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-257",
+   "state": "Sikkim",
+   "district": "SOUTH",
+   "facility": "DISTRICT HOSPITAL NAMCHI - EMERGENCY",
+   "phones": [
+    "8016467893"
+   ],
+   "lat": 27.692,
+   "lon": 88.154,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-258",
+   "state": "Tripura",
+   "district": "West Tripura",
+   "facility": "Indira Gandhi Memorial Hoapital",
+   "phones": [
+    "7005167730"
+   ],
+   "lat": 23.915,
+   "lon": 91.388,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-259",
+   "state": "Ladakh",
+   "district": "Kargil",
+   "facility": "Old District Hospital Kargil",
+   "phones": [
+    "9419334456"
+   ],
+   "lat": 33.803,
+   "lon": 76.473,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-260",
+   "state": "Uttar Pradesh",
+   "district": "Aligarh",
+   "facility": "Pt. Deen Dayal Upadhyay, jila Sanyukt Chikitsalaya, Quarsi, Aligarh.",
+   "phones": [
+    "9412162362"
+   ],
+   "lat": 27.882,
+   "lon": 78.069,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-261",
+   "state": "Uttar Pradesh",
+   "district": "Chitrakoot",
+   "facility": "Karwi District Hospital",
+   "phones": [
+    "7376794339"
+   ],
+   "lat": 25.217,
+   "lon": 80.917,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-262",
+   "state": "Uttar Pradesh",
+   "district": "Chitrakoot",
+   "facility": "CHC Pahadi",
+   "phones": [
+    "8630435158"
+   ],
+   "lat": 25.217,
+   "lon": 81.105,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-263",
+   "state": "Uttar Pradesh",
+   "district": "Chitrakoot",
+   "facility": "CHC Manikpur",
+   "phones": [
+    "8953079411"
+   ],
+   "lat": 25.217,
+   "lon": 81.105,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-264",
+   "state": "Uttarakhand",
+   "district": "Almora",
+   "facility": "District Hospital Almora",
+   "phones": [
+    "8126021734"
+   ],
+   "lat": 29.598,
+   "lon": 79.659,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-265",
+   "state": "Uttarakhand",
+   "district": "Bageshwar",
+   "facility": "District Hospital Bageshwar",
+   "phones": [
+    "9867638665"
+   ],
+   "lat": 29.84,
+   "lon": 79.776,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-266",
+   "state": "Uttarakhand",
+   "district": "Chamoli",
+   "facility": "District Hospital Chamoli",
+   "phones": [
+    "7060633609"
+   ],
+   "lat": 30.499,
+   "lon": 79.619,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-267",
+   "state": "Uttarakhand",
+   "district": "Champawat",
+   "facility": "District Hospital Champawat",
+   "phones": [
+    "9897920872"
+   ],
+   "lat": 29.332,
+   "lon": 80.093,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-268",
+   "state": "Uttarakhand",
+   "district": "Dehradun",
+   "facility": "Coronation Hospital",
+   "phones": [
+    "9412079326"
+   ],
+   "lat": 30.326,
+   "lon": 78.044,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-269",
+   "state": "Uttarakhand",
+   "district": "Dehradun",
+   "facility": "Doon Hospital (GDMC)",
+   "phones": [
+    "9837192200"
+   ],
+   "lat": 30.326,
+   "lon": 78.044,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-270",
+   "state": "Uttarakhand",
+   "district": "Dehradun",
+   "facility": "AIIMS Rishikesh",
+   "phones": [],
+   "lat": 30.109,
+   "lon": 78.292,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-271",
+   "state": "Uttarakhand",
+   "district": "Haridwar",
+   "facility": "District Hospital Haridwar",
+   "phones": [
+    "7579253038"
+   ],
+   "lat": 29.938,
+   "lon": 78.145,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-272",
+   "state": "Uttarakhand",
+   "district": "Nainital",
+   "facility": "District Hospital Nainital",
+   "phones": [],
+   "lat": 29.393,
+   "lon": 79.453,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-273",
+   "state": "Uttarakhand",
+   "district": "Nainital",
+   "facility": "Dr. Susheela Tiwari Govt. Hospital Haldwani, Nainital (GMC Haldwani)",
+   "phones": [
+    "7351726777"
+   ],
+   "lat": 29.295,
+   "lon": 79.416,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-274",
+   "state": "Uttarakhand",
+   "district": "Pauri Garhwal",
+   "facility": "District Hospital Pauri Garhwal",
+   "phones": [
+    "8755012546"
+   ],
+   "lat": 29.847,
+   "lon": 78.707,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-275",
+   "state": "Uttarakhand",
+   "district": "Pauri Garhwal",
+   "facility": "HNB Base Hospital Srinagar Pauri (GMC Srinagar)",
+   "phones": [
+    "9412085617"
+   ],
+   "lat": 29.847,
+   "lon": 78.707,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-276",
+   "state": "Uttarakhand",
+   "district": "Pithoragarh",
+   "facility": "District Hospital Pithorgarh",
+   "phones": [
+    "9410319069"
+   ],
+   "lat": 29.586,
+   "lon": 80.215,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-277",
+   "state": "Uttarakhand",
+   "district": "Rudraprayag",
+   "facility": "District Hospital Rudraprayag",
+   "phones": [
+    "9897663755"
+   ],
+   "lat": 30.286,
+   "lon": 78.981,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-278",
+   "state": "Uttarakhand",
+   "district": "Tehri Garhwal",
+   "facility": "District Hospital Tehri Garhwal",
+   "phones": [
+    "7078100808"
+   ],
+   "lat": 30.38,
+   "lon": 78.437,
+   "geo": "facility"
+  },
+  {
+   "id": "nrcp-279",
+   "state": "Uttarakhand",
+   "district": "U S Nagar",
+   "facility": "District Hospital US Nagar",
+   "phones": [
+    "9917171119"
+   ],
+   "lat": 28.982,
+   "lon": 79.681,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-280",
+   "state": "Uttarakhand",
+   "district": "Uttarkashi",
+   "facility": "District Hospital Uttarkashi",
+   "phones": [
+    "8192897197"
+   ],
+   "lat": 30.964,
+   "lon": 78.636,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-281",
+   "state": "West Bengal",
+   "district": "Kolkata",
+   "facility": "ID & BG Hospital 57, Beliaghata Main Road, Kolkata - 700010",
+   "pin": "700010",
+   "phones": [
+    "9433174948"
+   ],
+   "lat": 22.565,
+   "lon": 88.395,
+   "geo": "pin"
+  },
+  {
+   "id": "nrcp-282",
+   "state": "West Bengal",
+   "district": "Darjeeling",
+   "facility": "North Bengal Medical College & Hospital, Siliguri, District - Darjeeling",
+   "phones": [
+    "9433390174"
+   ],
+   "lat": 26.716,
+   "lon": 88.431,
+   "geo": "town"
+  },
+  {
+   "id": "nrcp-283",
+   "state": "West Bengal",
+   "district": "North 24 Parganas",
+   "facility": "Barasat District Hospital P.O. Barasat, Dist. - North 24 Pgs",
+   "phones": [
+    "9874235676"
+   ],
+   "lat": 22.693,
+   "lon": 88.663,
+   "geo": "district"
+  },
+  {
+   "id": "nrcp-284",
+   "state": "West Bengal",
+   "district": "Bankura",
+   "facility": "Bakura Sammilani Medical College & Hospital Disrtict - Bankura.",
+   "phones": [
+    "9830343734"
+   ],
+   "lat": 23.236,
+   "lon": 87.066,
+   "geo": "town"
+  }
+ ]
+}
