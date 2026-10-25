@@ -1,0 +1,22 @@
+{
+  "name": "Uyir: first aid after a bite, and every rabies vaccine dose",
+  "short_name": "Uyir",
+  "description": "What to do in the first minutes after a dog bite or snakebite, where to go, and a plan for every rabies vaccine dose. Offline, private, in English, Tamil and Hindi.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F8F6",
+  "theme_color": "#0B6FA4",
+  "lang": "en-IN",
+  "categories": ["health", "medical"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Wash timer (animal bite)", "short_name": "Wash timer", "url": "./#/bite", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "Snakebite first aid", "short_name": "Snakebite", "url": "./#/snake", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "My doses", "short_name": "Doses", "url": "./#/doses", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ]
+}
