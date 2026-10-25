@@ -28,6 +28,12 @@ project on a different topic that solves a real problem.
   wash, check, plan, care and learn.
 - First load: about 69 KB of JavaScript gzipped (from 120 KB before splitting).
 - Docs: README (with screenshots), design, sources, how it works, interview guide.
+- **Published** (with Haven's go-ahead): repo https://github.com/HavenLeno22/uyir (public, MIT
+  for the code, ODbL note for the OpenStreetMap-derived coordinates), live at
+  https://havenleno22.github.io/uyir/. `.github/workflows/deploy.yml` runs the tests and builds on
+  every push to `main`, then deploys to GitHub Pages; a failing test stops the deploy. Live site
+  checked in Chrome: service worker caches all 17 files on the first visit, reloads offline in
+  Tamil, Lighthouse 100 in all four categories.
 
 ## Next
 
